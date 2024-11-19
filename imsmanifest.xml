@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5ySW2T9lr8Z_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Cell membranes 21 Questions</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Cell_membranes_21_Questions_ORG">
+    <organization identifier="Cell_membranes_21_Questions_ORG">
+      <title>Cell membranes 21 Questions</title>
+      <item identifier="Infectious_DiseaseMalaria_SCO" isvisible="true" identifierref="__5ySW2T9lr8Z_course_id_RES">
+        <title>Cell membranes 21 Questions</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5ySW2T9lr8Z_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/69CJe3CQcQz_80_P_960_175_729_844.jpg" />
+      <file href="mobile/5inb3nPh1wR_80_P_981_156_853_924.jpg" />
+      <file href="mobile/69CJe3CQcQz_80_P_960_198_656_737.jpg" />
+      <file href="mobile/5lPiSBFrBJL_M_908_908.png" />
+      <file href="mobile/5inb3nPh1wR_80_P_981_156_714_589.jpg" />
+      <file href="mobile/5k7dmC0Wu0O_M_1400_1400.png" />
+      <file href="mobile/6FeoZmykxOU_M_1408_1408.png" />
+      <file href="mobile/5oLZohBgASS_M_1080_1080.png" />
+      <file href="mobile/69szDxtRezU_M_1264_1264.png" />
+      <file href="mobile/6qfiHVtU25c_M_1360_1360.png" />
+      <file href="mobile/5qUipIMEwYq_M_1344_1344.png" />
+      <file href="mobile/64YHzy73UL6_M_1392_1392.png" />
+      <file href="mobile/64fcKXtNtbL_M_1344_1344.png" />
+      <file href="mobile/6SsksTs1jt1_M_1392_1392.png" />
+      <file href="mobile/5gG01gMcdzt_M_1336_1336.png" />
+      <file href="mobile/5rQw7ou9DTf_M_1224_1224.png" />
+      <file href="mobile/5uZoyGAs9xv_M_1440_1440.png" />
+      <file href="mobile/5jU9LZxWCU9_M_1376_1376.png" />
+      <file href="mobile/697zgYJ3LB9_M_1368_1368.png" />
+      <file href="mobile/6g61zGN3ryA_M_1312_1312.png" />
+      <file href="mobile/5rujHbyN7pA_M_1128_1128.png" />
+      <file href="mobile/6SDosowtxif_M_1168_1168.png" />
+      <file href="mobile/6EWZqnXGFMO_M_1376_1376.png" />
+      <file href="mobile/68ImxAm8CON_M_1328_1328.png" />
+      <file href="mobile/5b61dfh5UVa_M_1344_1344.png" />
+      <file href="mobile/6EoR0DESUH1_M_1384_1384.png" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5aKWO0prgRB.js" />
+      <file href="html5/data/js/5d9kGXsDhEO.js" />
+      <file href="html5/data/js/5j3g6cgO3ae.js" />
+      <file href="html5/data/js/5nULJ15Tf7A.js" />
+      <file href="html5/data/js/5tc1lWP7Jjf.js" />
+      <file href="html5/data/js/5uQcgoC4YVi.js" />
+      <file href="html5/data/js/5uzrlBSULrL.js" />
+      <file href="html5/data/js/5XjLprSM3Z7.js" />
+      <file href="html5/data/js/60eQ5csJ757.js" />
+      <file href="html5/data/js/6176ndKNg9u.js" />
+      <file href="html5/data/js/63rC4CJS8gr.js" />
+      <file href="html5/data/js/63zpxvPntnX.js" />
+      <file href="html5/data/js/66LWXyyrMZo.js" />
+      <file href="html5/data/js/66Q9mVOn1aX.js" />
+      <file href="html5/data/js/6AT3YcA7UKC.js" />
+      <file href="html5/data/js/6c80Zh8t4qR.js" />
+      <file href="html5/data/js/6GXkqJkKJP9.js" />
+      <file href="html5/data/js/6iZD7eMAmD4.js" />
+      <file href="html5/data/js/6KOztkxPypS.js" />
+      <file href="html5/data/js/6mE9HD0WII9.js" />
+      <file href="html5/data/js/6MiVcxB5h2p.js" />
+      <file href="html5/data/js/6n4ISMlwbM4.js" />
+      <file href="html5/data/js/6nNJgCKqLVP.js" />
+      <file href="html5/data/js/6RDPDZwVN8Z.js" />
+      <file href="html5/data/js/6RPVIPp5thj.js" />
+      <file href="html5/data/js/6Wk2vxYclEj.js" />
+      <file href="html5/data/js/6XoQd65IDX6.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
